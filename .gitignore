@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# ignore cookie file and session dir
+client/cookie-file.txt
+sessions/
